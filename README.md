@@ -5,4 +5,21 @@
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Status-Desenvolvimento-green">
 </p>
-<img alt="https://img.shields.io/github/stars/camilafernanda?style=social"
+
+# Índice 
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
+
+<h2 align="center">Descrição do Projeto</h2>
+	:construction:  Projeto em construção  :construction:
+  
