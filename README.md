@@ -20,6 +20,12 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-<h2 align="center">Descrição do Projeto</h2>
+<h1 align="center">Descrição do Projeto</h1>
 	:construction:  Projeto em construção  :construction:
-  
+
+Este projeto foi desenvolvido durante minha jornada de estudos na Alura, com o objetivo de praticar e aplicar conceitos fundamentais aprendidos no curso.
+<h1 align="center"> Status do Projeto </h1>
+:pushpin: Em desenvolvimento :pushpin:
+
+# :hammer: Funcionalidades do projeto
+- `Funcionalidade 1`: O usuário pode chutar um numero entre 1 a 100, neste um jogo é pré setado um número nesse range ao qual só irá se repetir caso sejam escolhidos todos os 100 números, a cada tentativa o usuário recebe uma dica, se o número secreto é maior ou menor, ao acertar irá aparecer uma mensagem parabenizando-o e a quantidade de tentativas necessárias para o acerto.
